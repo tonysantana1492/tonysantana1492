@@ -66,7 +66,7 @@
 
 <!-- SOCIAL -->
 
-[website-shield]: https://img.shields.io/website?down_message=offline&label=deivi.me&up_message=online&url=https%3A%2F%2Fdeivi.me
+[website-shield]: https://img.shields.io/website?down_message=offline&label=tonysantana1492.me&up_message=online&url=https%3A%2F%2Ftonysantana1492.me
 
 [website-url]: https://tonysantana1492.me
 
